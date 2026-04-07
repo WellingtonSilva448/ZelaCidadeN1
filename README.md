@@ -138,8 +138,7 @@ Isso evita o SQL Injection
 
 ---
 ## 🎓 Projeto Educacional
-Este projeto foi desenvolvido para funs de aprendizado em back-and com Node.js para fins educativo, criado pelo aluno Wellingto Silva
-
+Este projeto foi desenvolvido para funs de aprendizado em back-and com Node.js para fins educativo, criado pelo aluno Wellingto Silva.
 
 <!-- ## Esses emojis é um padrão em praticamente TUDO REDME:
 
